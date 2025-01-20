@@ -32,5 +32,5 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/MariyaSha/humans"
-Issues = "https://github.com/MariyaSha/humans"
+Homepage = "https://github.com/Albair581/ColorfulEngine"
+Issues = "https://github.com/Albair581/ColorfulEngine/issues"
